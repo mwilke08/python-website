@@ -17,3 +17,10 @@ h1{
 h3{
     color: green;
 }
+
+/* ID's */
+
+#profile-pic{
+    border-radius: 40%;
+    box-shadow: 2px 2px 5px grey;
+}
